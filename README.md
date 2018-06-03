@@ -17,6 +17,8 @@ I personally use [Visual Studio Code](https://code.visualstudio.com/) which come
 - [ESLint](https://eslint.org) for linting.
 - [Prettier](https://github.com/prettier/prettier) for formatting the code automatically.
 
+`jsconfig.json` file is specific to VSCode for resolving paths.
+
 ## Installation
 ```bash
 git clone <git-url>
@@ -28,7 +30,7 @@ yarn (or) npm i
 
 Connect phone and laptop/pc to same network.
 ```bash
-exp start
+yarn start (or) npm start
 ```
 Scan the barcode and see the app running in your phone.
 

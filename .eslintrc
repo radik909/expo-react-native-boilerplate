@@ -14,5 +14,10 @@
         "extensions": [".js", ".jsx"]
       }
     ]
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
   }
 }

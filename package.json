@@ -1,4 +1,10 @@
 {
+  "name": "expo-react-native-boilerplate",
+  "version": "0.1.0",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "dependencies": {
